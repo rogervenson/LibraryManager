@@ -8,7 +8,7 @@ Library Manager allows you to register and remove books and users, borrow and re
 
 ## Technologies
 
-- Java 21
+- Java 17
 - Maven
 - Gson 2.11.0
 
@@ -37,7 +37,7 @@ src/main/java/com/librarymanager/
 
 ## How to Run
 
-**Requirements:** Java 21 and Maven installed.
+**Requirements:** Java 17 and Maven installed.
 
 1. Clone the repository:
 ```bash
